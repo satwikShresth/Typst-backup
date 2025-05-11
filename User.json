@@ -1,0 +1,1876 @@
+{
+  "id": "aFZb7P6VHF7YPGLteXjk58",
+  "name": "Satwik Shresth",
+  "email": {
+    "address": "satwikshresth@gmail.com",
+    "marketing_optin": false,
+    "validated": false
+  },
+  "created": "2024-04-09T04:14:10.296Z",
+  "storage_used": "9686666",
+  "settings": {
+    "vim": true,
+    "cursorSize": "normal",
+    "spellcheck": true,
+    "captureModS": true,
+    "lineNumbers": "relative",
+    "editorFontSize": 13,
+    "editorFontFamily": "\"Cascadia Mono\", monospace",
+    "showErrorOverlay": "manual",
+    "personalDictionary": [],
+    "improvePanelGrouping": true,
+    "showSearchLineNumbers": true
+  },
+  "referred_by": null,
+  "attribution": "search",
+  "telemetry_level": "FULL",
+  "projects": [
+    {
+      "id": "pbQCAxY2MvU3Nk2hCGGcBf",
+      "name": "Resume",
+      "owner": {
+        "id": "aFZb7P6VHF7YPGLteXjk58",
+        "name": "Satwik Shresth"
+      },
+      "created": "2025-05-09T13:47:32.289Z",
+      "previewed": {
+        "id": "f45SbL3t6HmY849XK597Ni"
+      },
+      "access": {
+        "canManage": true,
+        "canWrite": true
+      },
+      "shareLinks": {
+        "read": "https://typst.app/project/undefined",
+        "write": "https://typst.app/project/undefined"
+      },
+      "files": [
+        {
+          "id": "f45SbL3t6HmY849XK597Ni",
+          "name": "main.typ",
+          "created": "2025-05-09T13:47:32.291Z",
+          "lastChange": {
+            "date": "2025-05-11T18:14:20.031Z",
+            "agent": null
+          },
+          "size": 31704,
+          "isYjs": true
+        }
+      ],
+      "packages": []
+    },
+    {
+      "id": "pxShUz3KOFT3xR3BJAGmz2",
+      "name": "CS-472 Final",
+      "owner": {
+        "id": "aFZb7P6VHF7YPGLteXjk58",
+        "name": "Satwik Shresth"
+      },
+      "created": "2025-03-17T22:45:40.606Z",
+      "previewed": {
+        "id": "fgzoyoH8xOhBApthW1g4jn"
+      },
+      "access": {
+        "canManage": true,
+        "canWrite": true
+      },
+      "shareLinks": {
+        "read": "https://typst.app/project/undefined",
+        "write": "https://typst.app/project/undefined"
+      },
+      "files": [
+        {
+          "id": "fGxtqlFmQCfI6DBE7CtE9x",
+          "name": "logo.typ",
+          "created": "2025-03-17T22:45:40.837Z",
+          "lastChange": {
+            "date": "2025-03-17T22:45:40.837Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 598,
+          "isYjs": true
+        },
+        {
+          "id": "ffbUle2rBwMfK8G1O4LBDj",
+          "name": "main.bib",
+          "created": "2025-03-17T22:45:40.839Z",
+          "lastChange": {
+            "date": "2025-03-17T22:45:40.839Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 1262,
+          "isYjs": true
+        },
+        {
+          "id": "fgzoyoH8xOhBApthW1g4jn",
+          "name": "main.typ",
+          "created": "2025-03-17T22:45:40.841Z",
+          "lastChange": {
+            "date": "2025-03-17T22:49:12.396Z",
+            "agent": null
+          },
+          "size": 19924,
+          "isYjs": true
+        }
+      ],
+      "packages": []
+    },
+    {
+      "id": "pnq04G2egvo78t3oB3RhpB",
+      "name": "cs435",
+      "owner": {
+        "id": "aFZb7P6VHF7YPGLteXjk58",
+        "name": "Satwik Shresth"
+      },
+      "created": "2025-03-02T22:55:57.000Z",
+      "previewed": {
+        "id": "frNpVbZgw1ZwlTZls7ieIK"
+      },
+      "access": {
+        "canManage": true,
+        "canWrite": true
+      },
+      "shareLinks": {
+        "read": "https://typst.app/project/undefined",
+        "write": "https://typst.app/project/undefined"
+      },
+      "files": [
+        {
+          "id": "fFQ3elJVnky2bIItRS5Hqo",
+          "name": "case_1.png",
+          "created": "2025-03-03T02:39:17.038Z",
+          "lastChange": {
+            "date": "2025-03-03T02:39:17.038Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 184369,
+          "isYjs": false
+        },
+        {
+          "id": "fEh0TIIwB8x8BosvwayIHt",
+          "name": "case_2.png",
+          "created": "2025-03-03T02:39:17.159Z",
+          "lastChange": {
+            "date": "2025-03-03T02:39:17.159Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 166908,
+          "isYjs": false
+        },
+        {
+          "id": "ffUAt25Brnzi21Fht8DM8w",
+          "name": "case_3.png",
+          "created": "2025-03-03T02:39:17.260Z",
+          "lastChange": {
+            "date": "2025-03-03T02:39:17.260Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 146398,
+          "isYjs": false
+        },
+        {
+          "id": "fSVlz6JDeY9yfNYrke5GR6",
+          "name": "case_4.png",
+          "created": "2025-03-03T02:39:18.080Z",
+          "lastChange": {
+            "date": "2025-03-03T02:39:18.080Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 139904,
+          "isYjs": false
+        },
+        {
+          "id": "fCY9Bo1LXbAaujawVQ0wuu",
+          "name": "case_5.png",
+          "created": "2025-03-03T02:39:18.082Z",
+          "lastChange": {
+            "date": "2025-03-03T02:39:18.082Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 167767,
+          "isYjs": false
+        },
+        {
+          "id": "fgmttrBmiank7pHfkV1TrX",
+          "name": "case_6.png",
+          "created": "2025-03-03T02:39:18.084Z",
+          "lastChange": {
+            "date": "2025-03-03T02:39:18.084Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 126709,
+          "isYjs": false
+        },
+        {
+          "id": "fQYum6VonFV632ynXTJlgq",
+          "name": "case_7.png",
+          "created": "2025-03-03T02:39:18.204Z",
+          "lastChange": {
+            "date": "2025-03-03T02:39:18.204Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 200300,
+          "isYjs": false
+        },
+        {
+          "id": "fy135avxCZxxod6ijhJB0X",
+          "name": "case_8.png",
+          "created": "2025-03-03T02:39:18.207Z",
+          "lastChange": {
+            "date": "2025-03-03T02:39:18.207Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 211442,
+          "isYjs": false
+        },
+        {
+          "id": "fUzOfs45gOmKePCTEp1FGF",
+          "name": "CS478/1.png",
+          "created": "2025-03-17T18:55:08.554Z",
+          "lastChange": {
+            "date": "2025-03-17T18:55:08.554Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 54446,
+          "isYjs": false
+        },
+        {
+          "id": "fLmGE44V7fEXxcwjS4sXgB",
+          "name": "CS478/2.png",
+          "created": "2025-03-17T18:55:08.580Z",
+          "lastChange": {
+            "date": "2025-03-17T18:55:08.580Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 61592,
+          "isYjs": false
+        },
+        {
+          "id": "f2Z9UGRHucvJmLzQEu85gl",
+          "name": "CS478/personal_reflection.typ",
+          "created": "2025-03-17T17:45:30.064Z",
+          "lastChange": {
+            "date": "2025-03-17T22:03:43.822Z",
+            "agent": null
+          },
+          "size": 17413,
+          "isYjs": true
+        },
+        {
+          "id": "frNpVbZgw1ZwlTZls7ieIK",
+          "name": "engl103/main.typ",
+          "created": "2025-03-18T03:20:05.619Z",
+          "lastChange": {
+            "date": "2025-03-18T03:28:40.370Z",
+            "agent": null
+          },
+          "size": 6391,
+          "isYjs": true
+        },
+        {
+          "id": "frKh5hHikBhzfvLYSlY0DK",
+          "name": "main.typ",
+          "created": "2025-03-02T22:55:57.001Z",
+          "lastChange": {
+            "date": "2025-03-03T02:19:25.092Z",
+            "agent": null
+          },
+          "size": 24579,
+          "isYjs": true
+        },
+        {
+          "id": "fZkrp0egBEfiKfW1DnFR7B",
+          "name": "template.typ",
+          "created": "2025-03-02T22:56:26.616Z",
+          "lastChange": {
+            "date": "2025-03-02T23:01:01.803Z",
+            "agent": null
+          },
+          "size": 609,
+          "isYjs": true
+        },
+        {
+          "id": "ftUf5fRzVBt2j8iclYvzHM",
+          "name": "transform_fit.png",
+          "created": "2025-03-02T23:10:12.643Z",
+          "lastChange": {
+            "date": "2025-03-02T23:10:12.643Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 23763,
+          "isYjs": false
+        }
+      ],
+      "packages": []
+    },
+    {
+      "id": "pPmn7pU2RpRd4TXJttPzBl",
+      "name": "Cover_Letter",
+      "owner": {
+        "id": "aFZb7P6VHF7YPGLteXjk58",
+        "name": "Satwik Shresth"
+      },
+      "created": "2024-11-03T22:00:26.054Z",
+      "previewed": {
+        "id": "fxF4h-ZlYCAl7a9IiiyDui"
+      },
+      "access": {
+        "canManage": true,
+        "canWrite": true
+      },
+      "shareLinks": {
+        "read": "https://typst.app/project/undefined",
+        "write": "https://typst.app/project/undefined"
+      },
+      "files": [
+        {
+          "id": "fxF4h-ZlYCAl7a9IiiyDui",
+          "name": "main.typ",
+          "created": "2024-11-03T22:00:26.830Z",
+          "lastChange": {
+            "date": "2025-02-12T04:04:28.488Z",
+            "agent": null
+          },
+          "size": 24635,
+          "isYjs": true
+        },
+        {
+          "id": "fLvq2RNL3hfLxQdejQvPo9",
+          "name": "template.typ",
+          "created": "2024-11-03T22:02:36.244Z",
+          "lastChange": {
+            "date": "2024-11-04T00:00:49.570Z",
+            "agent": null
+          },
+          "size": 6104,
+          "isYjs": true
+        }
+      ],
+      "packages": []
+    },
+    {
+      "id": "p8fCmi_peYLr_PhguPnZoJ",
+      "name": "Cover Letter",
+      "owner": {
+        "id": "aFZb7P6VHF7YPGLteXjk58",
+        "name": "Satwik Shresth"
+      },
+      "created": "2024-11-03T21:59:05.086Z",
+      "previewed": {
+        "id": "fHG7moqui2fbQ0lFxb0iaJ"
+      },
+      "access": {
+        "canManage": true,
+        "canWrite": true
+      },
+      "shareLinks": {
+        "read": "https://typst.app/project/undefined",
+        "write": "https://typst.app/project/undefined"
+      },
+      "files": [
+        {
+          "id": "fHG7moqui2fbQ0lFxb0iaJ",
+          "name": "main.typ",
+          "created": "2024-11-03T21:59:05.470Z",
+          "lastChange": {
+            "date": "2024-11-03T21:59:53.891Z",
+            "agent": null
+          },
+          "size": 1288,
+          "isYjs": true
+        }
+      ],
+      "packages": []
+    },
+    {
+      "id": "p8ZSuviCb4xLqLpXG2gBCc",
+      "name": "Fall-2024",
+      "owner": {
+        "id": "aFZb7P6VHF7YPGLteXjk58",
+        "name": "Satwik Shresth"
+      },
+      "created": "2024-09-24T19:14:18.452Z",
+      "previewed": {
+        "id": "fUJU391DP_3LobgC55QlK3"
+      },
+      "access": {
+        "canManage": true,
+        "canWrite": true
+      },
+      "shareLinks": {
+        "read": "https://typst.app/project/undefined",
+        "write": "https://typst.app/project/undefined"
+      },
+      "files": [
+        {
+          "id": "fUJU391DP_3LobgC55QlK3",
+          "name": "main.typ",
+          "created": "2024-09-24T19:14:18.453Z",
+          "lastChange": {
+            "date": "2024-10-15T20:16:54.175Z",
+            "agent": null
+          },
+          "size": 409,
+          "isYjs": true
+        }
+      ],
+      "packages": []
+    },
+    {
+      "id": "pgcQrAJx3Q8ZV16Skv2fK4",
+      "name": "cover_letter",
+      "owner": {
+        "id": "aFZb7P6VHF7YPGLteXjk58",
+        "name": "Satwik Shresth"
+      },
+      "created": "2024-09-10T18:58:30.433Z",
+      "previewed": {
+        "id": "fbWTlRYCF0D0kEUbw98luJ"
+      },
+      "access": {
+        "canManage": true,
+        "canWrite": true
+      },
+      "shareLinks": {
+        "read": "https://typst.app/project/undefined",
+        "write": "https://typst.app/project/undefined"
+      },
+      "files": [
+        {
+          "id": "fbWTlRYCF0D0kEUbw98luJ",
+          "name": "coverletter.typ",
+          "created": "2024-09-10T18:58:30.853Z",
+          "lastChange": {
+            "date": "2024-10-12T19:05:57.302Z",
+            "agent": null
+          },
+          "size": 19147,
+          "isYjs": true
+        },
+        {
+          "id": "fxaaM3gqG84viH2Afc1AE0",
+          "name": "statement.typ",
+          "created": "2024-09-10T18:58:30.863Z",
+          "lastChange": {
+            "date": "2024-09-10T19:42:54.658Z",
+            "agent": null
+          },
+          "size": 790,
+          "isYjs": true
+        }
+      ],
+      "packages": []
+    },
+    {
+      "id": "pLZxl9Dimz0yqJhI5ct8Uq",
+      "name": "FIN325 Case 2",
+      "owner": {
+        "id": "aFZb7P6VHF7YPGLteXjk58",
+        "name": "Satwik Shresth"
+      },
+      "created": "2024-06-03T13:56:43.857Z",
+      "previewed": {
+        "id": "fzEPZXKpUSbLaHxdgYpTQd"
+      },
+      "access": {
+        "canManage": true,
+        "canWrite": true
+      },
+      "shareLinks": {
+        "read": "https://typst.app/project/undefined",
+        "write": "https://typst.app/project/undefined"
+      },
+      "files": [
+        {
+          "id": "fzEPZXKpUSbLaHxdgYpTQd",
+          "name": "FIN325 Case 2.typ",
+          "created": "2024-06-03T13:56:44.125Z",
+          "lastChange": {
+            "date": "2024-06-03T13:56:44.125Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 11980,
+          "isYjs": true
+        }
+      ],
+      "packages": []
+    },
+    {
+      "id": "pYzX6QWmOckgiVl68gVemk",
+      "name": "Drexel-Spring-2023",
+      "owner": {
+        "id": "aFZb7P6VHF7YPGLteXjk58",
+        "name": "Satwik Shresth"
+      },
+      "created": "2024-04-09T04:24:43.816Z",
+      "previewed": {
+        "id": "fnkUKS444RuDLXwFP32zRh"
+      },
+      "access": {
+        "canManage": true,
+        "canWrite": true
+      },
+      "shareLinks": {
+        "read": "https://typst.app/project/rg7-lm0uzZ9U3Me__NZe6Q",
+        "write": "https://typst.app/project/undefined"
+      },
+      "files": [
+        {
+          "id": "fG4rxH70nGXZrhlepi1FpT",
+          "name": "Fall-2024/Com270/a1.typ",
+          "created": "2024-10-06T14:47:02.497Z",
+          "lastChange": {
+            "date": "2024-10-06T23:19:15.272Z",
+            "agent": null
+          },
+          "size": 4829,
+          "isYjs": true
+        },
+        {
+          "id": "fMG2rd6gmjWJ8NI9NLmzoi",
+          "name": "Fall-2024/Com270/a4.typ",
+          "created": "2024-11-17T13:29:30.482Z",
+          "lastChange": {
+            "date": "2024-11-18T03:27:21.842Z",
+            "agent": null
+          },
+          "size": 15232,
+          "isYjs": true
+        },
+        {
+          "id": "fY93TnsJeXebFscm1bKUM1",
+          "name": "Fall-2024/Com270/a5.typ",
+          "created": "2024-11-25T01:37:20.555Z",
+          "lastChange": {
+            "date": "2024-11-25T04:01:34.820Z",
+            "agent": null
+          },
+          "size": 26691,
+          "isYjs": true
+        },
+        {
+          "id": "fSfng4UqbiynLTQ73ysU2E",
+          "name": "Fall-2024/Com270/chart-2.svg",
+          "created": "2024-11-25T01:39:06.155Z",
+          "lastChange": {
+            "date": "2024-11-25T01:40:46.567Z",
+            "agent": null
+          },
+          "size": 12449,
+          "isYjs": true
+        },
+        {
+          "id": "fcj9kMf1E52xDu0H2xuU97",
+          "name": "Fall-2024/Com270/chart.svg",
+          "created": "2024-11-18T03:16:47.280Z",
+          "lastChange": {
+            "date": "2024-11-18T03:17:02.286Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 161866,
+          "isYjs": true
+        },
+        {
+          "id": "f7jr5YIOzVvHEALOuG7xK8",
+          "name": "Fall-2024/Com270/references.bib",
+          "created": "2025-01-28T01:52:49.953Z",
+          "lastChange": {
+            "date": "2025-01-28T01:53:19.497Z",
+            "agent": null
+          },
+          "size": 459,
+          "isYjs": true
+        },
+        {
+          "id": "fECoMhj2da-a2MYokeSCSj",
+          "name": "Fall-2024/Com270/template.typ",
+          "created": "2024-10-06T23:16:42.991Z",
+          "lastChange": {
+            "date": "2024-10-06T23:24:13.722Z",
+            "agent": null
+          },
+          "size": 1958,
+          "isYjs": true
+        },
+        {
+          "id": "flPaXu0DqBxR4BFjT3KzT2",
+          "name": "Fall-2024/cs277/h2_q5_a.svg",
+          "created": "2024-12-02T18:05:31.027Z",
+          "lastChange": {
+            "date": "2024-12-02T18:09:59.963Z",
+            "agent": null
+          },
+          "size": 5212,
+          "isYjs": true
+        },
+        {
+          "id": "feoonKd4meTMxQ5dFrZfuF",
+          "name": "Fall-2024/cs277/h2_q5_b.svg",
+          "created": "2024-12-02T18:10:46.362Z",
+          "lastChange": {
+            "date": "2024-12-02T18:11:32.055Z",
+            "agent": null
+          },
+          "size": 5261,
+          "isYjs": true
+        },
+        {
+          "id": "ftRTNhkOHiR5bezOHUad76",
+          "name": "Fall-2024/cs277/h2_q5_c.svg",
+          "created": "2024-12-02T18:19:50.016Z",
+          "lastChange": {
+            "date": "2024-12-02T18:21:03.274Z",
+            "agent": null
+          },
+          "size": 5089,
+          "isYjs": true
+        },
+        {
+          "id": "fMAai7cQvw_HoEcxLrsPhP",
+          "name": "Fall-2024/cs277/hw1.typ",
+          "created": "2024-10-28T14:10:30.797Z",
+          "lastChange": {
+            "date": "2024-10-29T05:10:25.511Z",
+            "agent": null
+          },
+          "size": 75213,
+          "isYjs": true
+        },
+        {
+          "id": "fh4ljHzgUuTZ8AnqvOVVIB",
+          "name": "Fall-2024/cs277/hw2.typ",
+          "created": "2024-12-02T15:22:21.179Z",
+          "lastChange": {
+            "date": "2024-12-03T04:12:04.613Z",
+            "agent": null
+          },
+          "size": 42646,
+          "isYjs": true
+        },
+        {
+          "id": "f0KFq6oGqzfCkVZyttR4Zv",
+          "name": "Fall-2024/cs277/r8_auto_1.svg",
+          "created": "2024-11-19T05:41:35.289Z",
+          "lastChange": {
+            "date": "2024-11-19T05:55:46.772Z",
+            "agent": null
+          },
+          "size": 2138,
+          "isYjs": true
+        },
+        {
+          "id": "fE1IWXAAyMwhxkxFPmR427",
+          "name": "Fall-2024/cs277/r8_auto_2.svg",
+          "created": "2024-11-19T05:55:13.106Z",
+          "lastChange": {
+            "date": "2024-11-19T05:55:46.772Z",
+            "agent": null
+          },
+          "size": 3373,
+          "isYjs": true
+        },
+        {
+          "id": "flPwUiEvnwjhTtSdbQVjdf",
+          "name": "Fall-2024/cs277/r9_q1.svg",
+          "created": "2024-11-26T01:06:39.938Z",
+          "lastChange": {
+            "date": "2024-11-26T01:37:59.344Z",
+            "agent": null
+          },
+          "size": 5083,
+          "isYjs": true
+        },
+        {
+          "id": "fXDF7diks4ZVSYEFdV5GM0",
+          "name": "Fall-2024/cs277/r9_q3_a.svg",
+          "created": "2024-11-26T01:45:27.115Z",
+          "lastChange": {
+            "date": "2024-11-26T01:53:06.799Z",
+            "agent": null
+          },
+          "size": 3273,
+          "isYjs": true
+        },
+        {
+          "id": "fetdn21LUCFva747n4JFKg",
+          "name": "Fall-2024/cs277/r9_q3_b.svg",
+          "created": "2024-11-26T02:51:24.476Z",
+          "lastChange": {
+            "date": "2024-11-26T02:55:07.601Z",
+            "agent": null
+          },
+          "size": 5910,
+          "isYjs": true
+        },
+        {
+          "id": "fUzWEB4MUGYmczUhfCxRnj",
+          "name": "Fall-2024/cs277/r9_q3_c.svg",
+          "created": "2024-11-26T01:52:38.941Z",
+          "lastChange": {
+            "date": "2024-11-26T03:00:24.538Z",
+            "agent": null
+          },
+          "size": 10970,
+          "isYjs": true
+        },
+        {
+          "id": "fdNUg1nG1XzMbXxilGWoU8",
+          "name": "Fall-2024/cs277/reading1.typ",
+          "created": "2024-10-06T23:46:31.270Z",
+          "lastChange": {
+            "date": "2024-10-12T14:05:59.851Z",
+            "agent": null
+          },
+          "size": 50831,
+          "isYjs": true
+        },
+        {
+          "id": "fHnQxjtHqdDQOrxwlvMvAn",
+          "name": "Fall-2024/cs277/reading2.typ",
+          "created": "2024-10-12T14:02:45.516Z",
+          "lastChange": {
+            "date": "2024-10-12T17:15:33.288Z",
+            "agent": null
+          },
+          "size": 33261,
+          "isYjs": true
+        },
+        {
+          "id": "flAEcuyedL5hjsj-nqVkEq",
+          "name": "Fall-2024/cs277/reading3.typ",
+          "created": "2024-10-21T01:08:19.486Z",
+          "lastChange": {
+            "date": "2024-10-22T00:25:23.426Z",
+            "agent": null
+          },
+          "size": 34586,
+          "isYjs": true
+        },
+        {
+          "id": "fMn_jRS5USTbCJucFKF_yD",
+          "name": "Fall-2024/cs277/reading4.typ",
+          "created": "2024-10-27T18:30:20.415Z",
+          "lastChange": {
+            "date": "2024-11-05T02:44:29.310Z",
+            "agent": null
+          },
+          "size": 54903,
+          "isYjs": true
+        },
+        {
+          "id": "fQ8u8qJh7jcNN1wjgUNmi4",
+          "name": "Fall-2024/cs277/reading6.typ",
+          "created": "2024-11-05T02:00:29.573Z",
+          "lastChange": {
+            "date": "2024-11-17T13:34:17.675Z",
+            "agent": null
+          },
+          "size": 60617,
+          "isYjs": true
+        },
+        {
+          "id": "fOZJN9EM0jDQLVCMDcPTiN",
+          "name": "Fall-2024/cs277/reading7.typ",
+          "created": "2024-11-12T01:19:18.780Z",
+          "lastChange": {
+            "date": "2024-11-12T05:50:08.351Z",
+            "agent": null
+          },
+          "size": 30413,
+          "isYjs": true
+        },
+        {
+          "id": "fWEur7rBgDhFPSS1P1dxJs",
+          "name": "Fall-2024/cs277/reading8.typ",
+          "created": "2024-11-19T04:52:00.119Z",
+          "lastChange": {
+            "date": "2024-11-19T06:29:13.831Z",
+            "agent": null
+          },
+          "size": 27707,
+          "isYjs": true
+        },
+        {
+          "id": "fQYYSF5pnquDfr1ZDokiMo",
+          "name": "Fall-2024/cs277/reading9.typ",
+          "created": "2024-11-26T00:36:46.469Z",
+          "lastChange": {
+            "date": "2024-11-26T05:26:34.019Z",
+            "agent": null
+          },
+          "size": 5248,
+          "isYjs": true
+        },
+        {
+          "id": "fDrJXPPHhMuvdOX7JdluKb",
+          "name": "Fall-2024/cs375.typ",
+          "created": "2024-12-10T00:38:08.822Z",
+          "lastChange": {
+            "date": "2024-12-10T04:10:03.190Z",
+            "agent": null
+          },
+          "size": 25136,
+          "isYjs": true
+        },
+        {
+          "id": "ftaYnykj6BI3PRGPwwr21t",
+          "name": "fall-2025/proposal.typ",
+          "created": "2025-01-30T02:34:43.497Z",
+          "lastChange": {
+            "date": "2025-02-02T23:11:04.058Z",
+            "agent": null
+          },
+          "size": 6207,
+          "isYjs": true
+        },
+        {
+          "id": "fPu6I_QqLe8fBb2Aes298n",
+          "name": "Spring-2023/CS361/final.typ",
+          "created": "2024-06-12T18:39:41.623Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.126Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 34156,
+          "isYjs": true
+        },
+        {
+          "id": "fmCq7UHULIjEOsiHUgZfL4",
+          "name": "Spring-2023/CS361/hw1.typ",
+          "created": "2024-04-09T04:24:44.116Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.131Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 94191,
+          "isYjs": true
+        },
+        {
+          "id": "fv3uk7z3KrAk-m0F6ijRUk",
+          "name": "Spring-2023/CS361/hw2.typ",
+          "created": "2024-04-11T13:21:56.274Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.131Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 22318,
+          "isYjs": true
+        },
+        {
+          "id": "f9WeQwlUgezJiIgU78fWc6",
+          "name": "Spring-2023/CS361/hw_4.typ",
+          "created": "2024-05-02T21:14:31.498Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.126Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 10213,
+          "isYjs": true
+        },
+        {
+          "id": "fEm4Rg8HpHhxZWpEDMx3Jj",
+          "name": "Spring-2023/CS361/img1.png",
+          "created": "2024-06-12T19:49:47.817Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.129Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 221129,
+          "isYjs": false
+        },
+        {
+          "id": "f8ICj63fuhHRPuk383EYx8",
+          "name": "Spring-2023/CS361/img2.png",
+          "created": "2024-06-12T19:49:48.049Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.130Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 318769,
+          "isYjs": false
+        },
+        {
+          "id": "fOJ5ScDyAb-ibiW6Qhkw5q",
+          "name": "Spring-2023/CS361/img3.png",
+          "created": "2024-06-12T19:49:48.392Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.129Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 284075,
+          "isYjs": false
+        },
+        {
+          "id": "fUYRqklEPCY6Mbd9YwOrjd",
+          "name": "Spring-2023/CS361/img4.png",
+          "created": "2024-06-12T19:49:48.395Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.127Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 162135,
+          "isYjs": false
+        },
+        {
+          "id": "fB2ima8tKoEDVMiNJgnlBq",
+          "name": "Spring-2023/CS361/img5.png",
+          "created": "2024-06-12T19:49:48.395Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.131Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 3543,
+          "isYjs": false
+        },
+        {
+          "id": "feNp2bczOOTLqrmQ2sEehB",
+          "name": "Spring-2023/CS361/img6.png",
+          "created": "2024-06-12T19:49:48.407Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.121Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 253417,
+          "isYjs": false
+        },
+        {
+          "id": "fkhhCfRGpKGDBTLLk9kJwQ",
+          "name": "Spring-2023/CS361/img7.png",
+          "created": "2024-06-12T19:49:48.410Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.131Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 191493,
+          "isYjs": false
+        },
+        {
+          "id": "fPz-K7h6k08WS5tUkmMXbV",
+          "name": "Spring-2023/CS361/MidTerm.typ",
+          "created": "2024-05-09T01:20:12.495Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.130Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 43591,
+          "isYjs": true
+        },
+        {
+          "id": "fDH4201pMoJL4lTMiX6RIA",
+          "name": "Spring-2023/CS361/refection_7.typ",
+          "created": "2024-05-24T02:24:44.188Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.131Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 6668,
+          "isYjs": true
+        },
+        {
+          "id": "fnFdodwkz9asSVD1s-5iSk",
+          "name": "Spring-2023/CS361/refelction_6.typ",
+          "created": "2024-05-17T02:25:21.563Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.129Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 3196,
+          "isYjs": true
+        },
+        {
+          "id": "fcqiGEkM5fwrM3qL7D4K4M",
+          "name": "Spring-2023/CS361/reflection_3.typ",
+          "created": "2024-04-18T21:12:42.124Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.126Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 7297,
+          "isYjs": true
+        },
+        {
+          "id": "fIM-qIWfTFkC0_WSifJZGA",
+          "name": "Spring-2023/CS361/reflection_4.typ",
+          "created": "2024-04-26T00:52:02.560Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.132Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 7568,
+          "isYjs": true
+        },
+        {
+          "id": "fMzwUYLXndki_3Wto50LEg",
+          "name": "Spring-2023/CS361/reflection_5.typ",
+          "created": "2024-05-02T20:49:31.092Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.129Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 5281,
+          "isYjs": true
+        },
+        {
+          "id": "f7DcK46yXgGiSwKb2-zPg_",
+          "name": "Spring-2023/CS361/reflection_8.typ",
+          "created": "2024-05-31T16:09:45.350Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.130Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 7897,
+          "isYjs": true
+        },
+        {
+          "id": "fRIfrgHx-vPVWq9HPLkqsq",
+          "name": "Spring-2023/CS361/reflection_9.typ",
+          "created": "2024-06-08T12:09:40.974Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.129Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 3275,
+          "isYjs": true
+        },
+        {
+          "id": "ffKrtUPSWyyCCgtCdrnDl_",
+          "name": "Spring-2023/CS383/hw1/Figure_1.png",
+          "created": "2024-04-19T22:25:28.199Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.126Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 26892,
+          "isYjs": false
+        },
+        {
+          "id": "fxYtE2TzdXy-hMyKnNRcRL",
+          "name": "Spring-2023/CS383/hw1/hw1.typ",
+          "created": "2024-04-17T14:16:22.378Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.125Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 33467,
+          "isYjs": true
+        },
+        {
+          "id": "fa6VY3mFFdUFyhRJjkRgal",
+          "name": "Spring-2023/CS383/hw2/hw2.typ",
+          "created": "2024-04-25T15:23:30.163Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.125Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 22034,
+          "isYjs": true
+        },
+        {
+          "id": "ftCDXraj0mTzGIh21c_oho",
+          "name": "Spring-2023/CS383/hw3/Figure_1.png",
+          "created": "2024-05-03T18:23:34.089Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.130Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 21378,
+          "isYjs": false
+        },
+        {
+          "id": "fbs7XaZXhhtlozOnjED0me",
+          "name": "Spring-2023/CS383/hw3/hw3.typ",
+          "created": "2024-04-29T13:08:38.777Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.127Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 14008,
+          "isYjs": true
+        },
+        {
+          "id": "fu_rcEdX4J-rrAsT9A8q5O",
+          "name": "Spring-2023/CS383/hw3/hw4.typ",
+          "created": "2024-05-10T23:07:00.886Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.125Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 1628,
+          "isYjs": true
+        },
+        {
+          "id": "fMS8pYm08rwifGsOlgMhhL",
+          "name": "Spring-2023/CS383/hw5/hw5.typ",
+          "created": "2024-05-15T13:16:17.520Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.125Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 36220,
+          "isYjs": true
+        },
+        {
+          "id": "fhoO-UQQBb0t7TPo2QKKCh",
+          "name": "Spring-2023/CS383/hw6/hw6.typ",
+          "created": "2024-05-23T21:32:36.555Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.125Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 12790,
+          "isYjs": true
+        },
+        {
+          "id": "fFtAFmHAfKjOjj565GHQC6",
+          "name": "Spring-2023/CS472/hw1.typ",
+          "created": "2024-04-11T13:27:45.357Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.125Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 55154,
+          "isYjs": true
+        },
+        {
+          "id": "fCDNMNkDQAgI3B7C2cdz_J",
+          "name": "Spring-2023/CS472/hw3.typ",
+          "created": "2024-05-03T18:54:58.259Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.125Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 3292,
+          "isYjs": true
+        },
+        {
+          "id": "f0rRZDfsa1xKB5jBnobR4p",
+          "name": "Spring-2023/CS472/hw4.typ",
+          "created": "2024-06-13T11:06:27.083Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.125Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 6017,
+          "isYjs": true
+        },
+        {
+          "id": "fMdNHtYPLdWCaqiK6DauBb",
+          "name": "Spring-2023/CS472/hw5.typ",
+          "created": "2024-05-31T17:09:53.513Z",
+          "lastChange": {
+            "date": "2025-03-17T18:04:35.128Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 40925,
+          "isYjs": true
+        },
+        {
+          "id": "fdZSUEoXNOvEDpQeOyvGHG",
+          "name": "template_new.typ",
+          "created": "2025-01-30T02:35:08.304Z",
+          "lastChange": {
+            "date": "2025-03-10T02:22:48.678Z",
+            "agent": null
+          },
+          "size": 690,
+          "isYjs": true
+        },
+        {
+          "id": "ftGxgCrGYqvC0yN5IAIsgT",
+          "name": "template.typ",
+          "created": "2024-04-11T03:11:40.258Z",
+          "lastChange": {
+            "date": "2024-04-29T13:12:05.424Z",
+            "agent": null
+          },
+          "size": 1222,
+          "isYjs": true
+        },
+        {
+          "id": "fswrSoH-plbl3mbdjiEeye",
+          "name": "tree.typ",
+          "created": "2024-05-15T14:57:00.872Z",
+          "lastChange": {
+            "date": "2024-05-15T15:00:30.183Z",
+            "agent": null
+          },
+          "size": 1709,
+          "isYjs": true
+        },
+        {
+          "id": "fSgXoVy3rPKq2pSf9HkDwD",
+          "name": "Winter-2025/COM/blog.typ",
+          "created": "2025-01-27T01:49:33.768Z",
+          "lastChange": {
+            "date": "2025-03-02T20:53:57.952Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 26374,
+          "isYjs": true
+        },
+        {
+          "id": "fpx9KzEn6AzEACu6TMeoPL",
+          "name": "Winter-2025/COM/create.png",
+          "created": "2025-02-10T23:01:29.036Z",
+          "lastChange": {
+            "date": "2025-03-02T20:54:02.571Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 188987,
+          "isYjs": false
+        },
+        {
+          "id": "fUuunyY4lFwnZRch3dYTth",
+          "name": "Winter-2025/COM/dns.png",
+          "created": "2025-02-10T22:12:38.227Z",
+          "lastChange": {
+            "date": "2025-03-02T20:54:07.521Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 24446,
+          "isYjs": false
+        },
+        {
+          "id": "fnSSc5b1vetxIkjJ07DfPJ",
+          "name": "Winter-2025/COM/download.jpeg",
+          "created": "2025-01-28T00:57:18.201Z",
+          "lastChange": {
+            "date": "2025-03-02T20:54:08.974Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 147901,
+          "isYjs": false
+        },
+        {
+          "id": "fwmgbhb9W6nCisvipjj0Wn",
+          "name": "Winter-2025/COM/english_2.typ",
+          "created": "2025-03-09T19:30:34.690Z",
+          "lastChange": {
+            "date": "2025-03-10T01:22:54.405Z",
+            "agent": null
+          },
+          "size": 7085,
+          "isYjs": true
+        },
+        {
+          "id": "fnkUKS444RuDLXwFP32zRh",
+          "name": "Winter-2025/COM/expert_interview.typ",
+          "created": "2025-02-25T00:09:46.975Z",
+          "lastChange": {
+            "date": "2025-03-02T20:54:10.089Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 22222,
+          "isYjs": true
+        },
+        {
+          "id": "fGxl0cqzZyWUmYe1litNeB",
+          "name": "Winter-2025/COM/firewall.png",
+          "created": "2025-02-10T22:50:28.657Z",
+          "lastChange": {
+            "date": "2025-03-02T20:54:11.124Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 11467,
+          "isYjs": false
+        },
+        {
+          "id": "fMTVIaqQ333tk58AehOqdE",
+          "name": "Winter-2025/COM/gpu-and-cpu-principle-1651887407-scZqNBXd7O.jpg",
+          "created": "2025-01-28T02:27:47.679Z",
+          "lastChange": {
+            "date": "2025-03-02T20:54:12.211Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 112876,
+          "isYjs": false
+        },
+        {
+          "id": "ftJ8bS2jQUvRnddfLqgiNz",
+          "name": "Winter-2025/COM/images.jpeg",
+          "created": "2025-01-28T01:18:34.957Z",
+          "lastChange": {
+            "date": "2025-03-02T20:54:13.244Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 7583,
+          "isYjs": false
+        },
+        {
+          "id": "fKVObURkgcvcXRl62DPbEE",
+          "name": "Winter-2025/COM_P/draft.png",
+          "created": "2025-03-10T13:10:21.091Z",
+          "lastChange": {
+            "date": "2025-03-10T13:10:50.845Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 611348,
+          "isYjs": false
+        },
+        {
+          "id": "fkoRCFvci35J3MFSXXfPkA",
+          "name": "Winter-2025/COM_P/github.png",
+          "created": "2025-03-10T17:21:54.541Z",
+          "lastChange": {
+            "date": "2025-03-10T17:41:58.553Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 118658,
+          "isYjs": false
+        },
+        {
+          "id": "frqz7mUpwSKJUESR2Lzf37",
+          "name": "Winter-2025/COM_P/image_to_text.png",
+          "created": "2025-03-10T17:25:16.922Z",
+          "lastChange": {
+            "date": "2025-03-10T17:25:43.013Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 888729,
+          "isYjs": false
+        },
+        {
+          "id": "fX39ZmA62NXqNrTHFhF58A",
+          "name": "Winter-2025/COM_P/mockup.png",
+          "created": "2025-03-10T10:25:47.547Z",
+          "lastChange": {
+            "date": "2025-03-10T10:26:05.318Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 167438,
+          "isYjs": false
+        },
+        {
+          "id": "f0eYb4JTDfpm3gDEJ7GUTK",
+          "name": "Winter-2025/COM_P/openapi.png",
+          "created": "2025-03-10T17:39:51.037Z",
+          "lastChange": {
+            "date": "2025-03-10T17:40:15.095Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 127333,
+          "isYjs": false
+        },
+        {
+          "id": "fjEYcY0CXr929BCllcHj5F",
+          "name": "Winter-2025/COM_P/proposal.typ",
+          "created": "2025-03-10T01:19:12.131Z",
+          "lastChange": {
+            "date": "2025-03-11T00:42:54.037Z",
+            "agent": null
+          },
+          "size": 56360,
+          "isYjs": true
+        },
+        {
+          "id": "ffgZfDJKuDcjr0nboof4AI",
+          "name": "Winter-2025/COM_P/reddit_.png",
+          "created": "2025-03-10T17:33:27.864Z",
+          "lastChange": {
+            "date": "2025-03-10T17:34:20.443Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 496578,
+          "isYjs": false
+        },
+        {
+          "id": "ftlUS00uQqSdQxHCd1Fj5M",
+          "name": "Winter-2025/COM_P/reddit.png",
+          "created": "2025-03-10T04:08:50.452Z",
+          "lastChange": {
+            "date": "2025-03-10T04:23:47.120Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 61459,
+          "isYjs": false
+        },
+        {
+          "id": "fHBYyIMvqaU0ApfDzgmdp4",
+          "name": "Winter-2025/COM_P/salary.png",
+          "created": "2025-03-10T04:08:10.821Z",
+          "lastChange": {
+            "date": "2025-03-10T04:23:38.991Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 392925,
+          "isYjs": false
+        },
+        {
+          "id": "f853M22k7oRP2JpXl5KeOc",
+          "name": "Winter-2025/COM/ss.png",
+          "created": "2025-02-10T22:23:06.991Z",
+          "lastChange": {
+            "date": "2025-03-02T20:54:14.585Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 137151,
+          "isYjs": false
+        },
+        {
+          "id": "fJcqQ7uWPj4zwZC76SGHun",
+          "name": "Winter-2025/COM/stepbystep.typ",
+          "created": "2025-02-10T17:34:38.994Z",
+          "lastChange": {
+            "date": "2025-03-02T20:54:15.857Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 29301,
+          "isYjs": true
+        },
+        {
+          "id": "fHGhxhOYlGVvGzZthZnbuZ",
+          "name": "Winter-2025/COM/ThreePhaseCompiler.png",
+          "created": "2025-01-28T01:01:46.166Z",
+          "lastChange": {
+            "date": "2025-03-02T20:54:17.365Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 11681,
+          "isYjs": false
+        },
+        {
+          "id": "fgHoHCx7x80woAfuSyX2PL",
+          "name": "Winter-2025/COM/url.png",
+          "created": "2025-02-10T22:53:15.275Z",
+          "lastChange": {
+            "date": "2025-03-02T20:54:18.498Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 14139,
+          "isYjs": false
+        },
+        {
+          "id": "fUpdthq70gXduuMMSD0Zib",
+          "name": "Winter-2025/CS425/A1/a1.typ",
+          "created": "2025-02-02T23:07:21.271Z",
+          "lastChange": {
+            "date": "2025-02-16T18:46:53.397Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 8356,
+          "isYjs": true
+        },
+        {
+          "id": "ftMywnsW7Us13Q3OZrXMu1",
+          "name": "Winter-2025/CS425/A1/cube.gif",
+          "created": "2025-02-03T01:13:39.434Z",
+          "lastChange": {
+            "date": "2025-02-16T18:46:54.904Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 203214,
+          "isYjs": false
+        },
+        {
+          "id": "f7TbpvHEAK2gdSZrU8QegJ",
+          "name": "Winter-2025/CS425/A1/im1.jpg",
+          "created": "2025-02-03T00:53:59.299Z",
+          "lastChange": {
+            "date": "2025-02-16T18:46:56.195Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 16524,
+          "isYjs": false
+        },
+        {
+          "id": "fhazmNFp9NEIdICR6x9xAz",
+          "name": "Winter-2025/CS425/A1/im2.jpg",
+          "created": "2025-02-03T00:53:59.317Z",
+          "lastChange": {
+            "date": "2025-02-16T18:46:57.376Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 20050,
+          "isYjs": false
+        },
+        {
+          "id": "fslwgDId4QoervYGBiayqI",
+          "name": "Winter-2025/CS425/A1/q3.png",
+          "created": "2025-02-02T23:57:53.123Z",
+          "lastChange": {
+            "date": "2025-02-16T18:46:58.643Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 84184,
+          "isYjs": false
+        },
+        {
+          "id": "fa2VTFZ8XIgZVbgnmlimp2",
+          "name": "Winter-2025/CS425/A1/q4.png",
+          "created": "2025-02-02T23:57:53.126Z",
+          "lastChange": {
+            "date": "2025-02-16T18:46:59.846Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 28346,
+          "isYjs": false
+        },
+        {
+          "id": "fYrRy6J0y9DJWV7OX2wHF4",
+          "name": "Winter-2025/CS425/A1/rXfY.png",
+          "created": "2025-02-02T23:52:34.075Z",
+          "lastChange": {
+            "date": "2025-02-16T18:47:00.991Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 89256,
+          "isYjs": false
+        },
+        {
+          "id": "f8AkYYvEmIbFoT1vJhBYth",
+          "name": "Winter-2025/CS425/A1/rYfX.png",
+          "created": "2025-02-02T23:52:34.179Z",
+          "lastChange": {
+            "date": "2025-02-16T18:47:02.108Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 85685,
+          "isYjs": false
+        },
+        {
+          "id": "f7MKAbEgbNrKdO5cZ9jj8w",
+          "name": "Winter-2025/CS425/A1/s2q1 outdoor.png",
+          "created": "2025-02-03T00:02:35.464Z",
+          "lastChange": {
+            "date": "2025-02-16T18:47:03.212Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 382416,
+          "isYjs": false
+        },
+        {
+          "id": "fex0V4Kl4v94anLM5U56sM",
+          "name": "Winter-2025/CS425/A1/s2q1.png",
+          "created": "2025-02-03T00:02:34.320Z",
+          "lastChange": {
+            "date": "2025-02-16T18:47:04.419Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 379262,
+          "isYjs": false
+        },
+        {
+          "id": "fTIFFP4PAvlzvxw4zl1kWg",
+          "name": "Winter-2025/CS425/A1/s2qlast.png",
+          "created": "2025-02-03T01:09:04.126Z",
+          "lastChange": {
+            "date": "2025-02-16T18:47:05.696Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 11082,
+          "isYjs": false
+        },
+        {
+          "id": "fCedJTdBki2bJljuPVieSE",
+          "name": "Winter-2025/CS425/A2/a2.typ",
+          "created": "2025-02-16T18:47:27.273Z",
+          "lastChange": {
+            "date": "2025-02-17T01:46:55.048Z",
+            "agent": null
+          },
+          "size": 20926,
+          "isYjs": true
+        },
+        {
+          "id": "fuDgmjsSzOLaa6vtO4Dq70",
+          "name": "Winter-2025/CS425/A2/q1_patch.png",
+          "created": "2025-02-17T00:23:35.103Z",
+          "lastChange": {
+            "date": "2025-02-17T00:23:35.103Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 8556,
+          "isYjs": false
+        },
+        {
+          "id": "fARLZcycutD7JYfopeLXxQ",
+          "name": "Winter-2025/CS425/A2/q2_gaussian.png",
+          "created": "2025-02-17T00:47:41.157Z",
+          "lastChange": {
+            "date": "2025-02-17T00:47:41.157Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 105795,
+          "isYjs": false
+        },
+        {
+          "id": "fMoIXURjRhEw7GT4yAtxMF",
+          "name": "Winter-2025/CS425/A2/q3_edge_gaussian.png",
+          "created": "2025-02-17T01:35:21.685Z",
+          "lastChange": {
+            "date": "2025-02-17T01:39:52.798Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 118103,
+          "isYjs": false
+        },
+        {
+          "id": "fxyKHbrkS2g4byodqPzGlJ",
+          "name": "Winter-2025/CS425/A2/q3_edge.png",
+          "created": "2025-02-17T01:30:39.512Z",
+          "lastChange": {
+            "date": "2025-02-17T01:30:39.512Z",
+            "agent": {
+              "id": "aFZb7P6VHF7YPGLteXjk58",
+              "name": "Satwik Shresth"
+            }
+          },
+          "size": 138240,
+          "isYjs": false
+        }
+      ],
+      "packages": []
+    }
+  ],
+  "teams": [],
+  "shared": [],
+  "sessions": [
+    {
+      "started": "2025-05-06T01:20:55.189Z",
+      "last_seen": "2025-05-11T18:50:21.964Z",
+      "position": null
+    }
+  ],
+  "nps": [],
+  "feedback": []
+}

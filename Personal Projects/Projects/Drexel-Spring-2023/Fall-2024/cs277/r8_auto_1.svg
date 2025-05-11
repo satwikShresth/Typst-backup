@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "https://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="800" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="163.5" cy="295.5" rx="30" ry="30"/>
+	<text x="158.5" y="301.5" font-family="Times New Roman" font-size="20">0</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="163.5" cy="295.5" rx="24" ry="24"/>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="328.5" cy="295.5" rx="30" ry="30"/>
+	<text x="323.5" y="301.5" font-family="Times New Roman" font-size="20">1</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 150.275,268.703 A 22.5,22.5 0 1 1 176.725,268.703"/>
+	<text x="158.5" y="219.5" font-family="Times New Roman" font-size="20">0</text>
+	<polygon fill="black" stroke-width="1" points="176.725,268.703 185.473,265.17 177.382,259.292"/>
+	<polygon stroke="black" stroke-width="1" points="84.5,295.5 133.5,295.5"/>
+	<text x="45.5" y="301.5" font-family="Times New Roman" font-size="20">start</text>
+	<polygon fill="black" stroke-width="1" points="133.5,295.5 125.5,290.5 125.5,300.5"/>
+	<polygon stroke="black" stroke-width="1" points="193.5,295.5 298.5,295.5"/>
+	<polygon fill="black" stroke-width="1" points="298.5,295.5 290.5,290.5 290.5,300.5"/>
+	<text x="241.5" y="286.5" font-family="Times New Roman" font-size="20">1</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 315.275,268.703 A 22.5,22.5 0 1 1 341.725,268.703"/>
+	<text x="323.5" y="219.5" font-family="Times New Roman" font-size="20">0</text>
+	<polygon fill="black" stroke-width="1" points="341.725,268.703 350.473,265.17 342.382,259.292"/>
+	<path stroke="black" stroke-width="1" fill="none" d="M 314.912,322.077 A 86.326,86.326 0 0 1 177.088,322.077"/>
+	<polygon fill="black" stroke-width="1" points="177.088,322.077 177.915,331.475 185.898,325.452"/>
+	<text x="241.5" y="377.5" font-family="Times New Roman" font-size="20">1</text>
+</svg>
